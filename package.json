@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "tsc"
+  },
+  "dependencies": {
+    "viem": "^2.29.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
